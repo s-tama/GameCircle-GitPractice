@@ -41,6 +41,8 @@ void Update(void)
 // -------------------------------------------------
 void Render(void)
 {
+	// ボックス表示
+	DrawBox(SCREEN_WIDTH / 2 - 32, SCREEN_HEIGHT / 2 - 32, SCREEN_WIDTH / 2 + 32, SCREEN_HEIGHT / 2 + 32, GetColor(255, 255, 255), TRUE);
 }
 
 // -------------------------------------------------
