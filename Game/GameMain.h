@@ -6,8 +6,8 @@
 
 // ’è”‚Ì’è‹` ====================================================
 
-#define SCREEN_WIDTH		(800)						// ‰æ–Ê•
-#define SCREEN_HEIGHT		(600)						// ‰æ–Ê‚‚³
+#define SCREEN_WIDTH		(640)						// ‰æ–Ê•
+#define SCREEN_HEIGHT		(480)						// ‰æ–Ê‚‚³
 
 #define SCREEN_TOP			(0)							// ‰æ–Êã’[
 #define SCREEN_LEFT			(0)							// ‰æ–Ê¶’[
