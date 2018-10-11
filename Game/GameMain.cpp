@@ -43,6 +43,8 @@ void Render(void)
 {
 	// ボックス表示
 	DrawBox(SCREEN_WIDTH / 2 - 32, SCREEN_HEIGHT / 2 - 32, SCREEN_WIDTH / 2 + 32, SCREEN_HEIGHT / 2 + 32, GetColor(255, 255, 255), TRUE);
+	// 円を追加
+	DrawCircle(64, 64, 32, GetColor(255, 255, 255), TRUE);
 }
 
 // -------------------------------------------------
